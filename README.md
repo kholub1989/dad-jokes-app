@@ -1,3 +1,10 @@
+# dad-jokes-app
+
+### Project from the Udemy course - The Modern React Bootcamp
+
+![dad-jokes-app](https://i.ibb.co/1b8BKW3/Screen-Shot-2019-12-03-at-8-40-38-PM.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
